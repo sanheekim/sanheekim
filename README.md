@@ -6,6 +6,7 @@
 [![Blog Badge](http://img.shields.io/badge/-Tistory-orange?style=flat-square&logo=FF5722&link=https://itisenjoyable.tistory.com/)](https://itisenjoyable.tistory.com/)
 
 
-> 2020/04/14 Hello, world!
+> 2020/04/14 <br/>
+> Hello, world!
 
 > I'm a back-end developer who wants to be a full-stack developer.
