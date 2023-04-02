@@ -5,9 +5,9 @@
 [![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsanheekim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanheekim526@gmail.com)](mailto:sanheekim526@gmail.com)
-[![Notion Badge](http://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&link=https://held-digestion-b05.notion.site/Sanhee-Kim-b16a5d9959f34ea9baa3ab5e0860db01)](https://held-digestion-b05.notion.site/Sanhee-Kim-b16a5d9959f34ea9baa3ab5e0860db01)
-[![LinkedIn Badge](http://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&link=https://www.linkedin.com/in/sanhee-kim-870090182/)](https://www.linkedin.com/in/sanhee-kim-870090182/)
 [![Blog Badge](http://img.shields.io/badge/GitBlog-gray?style=flat-square&logo=GitHubPages&link=https://sanheekim.github.io/)](https://sanheekim.github.io/)
+<!-- [![Notion Badge](http://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&link=https://held-digestion-b05.notion.site/Sanhee-Kim-b16a5d9959f34ea9baa3ab5e0860db01)](https://held-digestion-b05.notion.site/Sanhee-Kim-b16a5d9959f34ea9baa3ab5e0860db01)
+[![LinkedIn Badge](http://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&link=https://www.linkedin.com/in/sanhee-kim-870090182/)](https://www.linkedin.com/in/sanhee-kim-870090182/) -->
 
 ### 🌏 Tech Stack
 ![Teck Badge](https://img.shields.io/badge/CSS3-F43059?style=flat-square&logo=CSS3&logoColor=white)
